@@ -1,0 +1,16 @@
+{
+    "name": "origindesign/mailchimp_php_api",
+    "description": "Module to make calls to MailChimp API",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lindsay Wilson",
+            "email": "lwilson@origindesign.ca"
+        }
+    ],
+    "type": "drupal-module",
+    "require": {
+		"php": ">=7.4"
+    },
+	"minimum-stability": "dev"
+}

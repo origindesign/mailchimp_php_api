@@ -1,0 +1,4 @@
+services:
+    # A service to make a connection to Campaign Monitor
+    mailchimp_php_api.mailchimp:
+        class: Drupal\mailchimp_php_api\MailChimp
